@@ -1,3 +1,3 @@
-#My first pyfile in github :)
+#My first pyfile in github
 
 print('Hello there')
